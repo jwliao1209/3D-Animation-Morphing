@@ -3,5 +3,5 @@ This work is programmed on MATLAB2020b, so if you want to use this code, please 
 
 
 ## Demo
-https://github.com/Jia-Wei-Liao/Application_of_Surface_Morphing_in_Animation/blob/main/video/horse.avi
+https://github.com/Jia-Wei-Liao/Application_of_Surface_Morphing_in_Animation/blob/main/video/horse.mp4
 
