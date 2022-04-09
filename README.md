@@ -3,4 +3,5 @@ This work is programmed on MATLAB2020b, so if you want to use this code, please 
 
 
 ## Demo
-https://www.youtube.com/watch?v=ulX4y9-ar8A
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)](https://www.youtube.com/watch?v=ulX4y9-ar8A "Unity Snake Game")
+
